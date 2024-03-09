@@ -51,7 +51,7 @@ Note if admin value is not given it will not add the movie and return a differen
 Once you get the success message, please go to your browser and again make # "http://localhost:4000/movies" call to se your movie updated.
 
 To Delete a movie
-# "http://localhost:4000/movies/ID" Note this is a PUT Call.
+# "http://localhost:4000/movies/ID" Note this is a DELETE Call.
 
 Add the ID from the movie
 
